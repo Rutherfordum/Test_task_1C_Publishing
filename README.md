@@ -23,6 +23,8 @@
 
 [com.cysharp.unitask](https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask) 
 
+[dotween.demigiant](https://dotween.demigiant.com/)
+
 ## Ассеты используемы в проекте
 [Simple 2D Platformer Assets Pack](https://assetstore.unity.com/packages/2d/characters/simple-2d-platformer-assets-pack-188518)
 
