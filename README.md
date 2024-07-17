@@ -14,6 +14,8 @@
 Все префабы врагов так же находяться по пути `Assets/_Project/Resources/Enemies`  
 Все префабы пуль находяться `Assets/_Project/Resources/Bullets`
 
+Рекомендую выбрать в окне `Game` режим `Simulator`
+
 ## Инструменты используемые в проекте
 [com.svermeulen.extenject](https://github.com/Mathijs-Bakker/Extenject.git?path=UnityProject/Assets/Plugins/Zenject/Source#9.3.0) 
 
