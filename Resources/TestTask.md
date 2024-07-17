@@ -6,7 +6,7 @@
 враги. Игрок перемещается по нижней части игрового поля и отстреливает
 врагов, чтобы не допустить достижения ими финишной черты.
 
-## <img src="media/image1.png" style="width:4.10962in;height:4.52604in" />
+![Иллюстрация к заданию](https://github.com/Rutherfordum/Test_task_1C_Publishing/blob/main/Resources/image.png)
 
 ## Описание задачи
 
