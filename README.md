@@ -22,5 +22,6 @@
 ## Ассеты используемы в проекте
 [Simple 2D Platformer Assets Pack](https://assetstore.unity.com/packages/2d/characters/simple-2d-platformer-assets-pack-188518)
 
-
-
+## Мои контакты
+[Telegram](https://t.me/Rutherfordum)   
+[TgChanel](https://t.me/Pro_XR)  
