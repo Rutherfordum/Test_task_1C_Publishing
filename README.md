@@ -1,4 +1,4 @@
-# Тестовое задание на позицию Unity Developer (Middle+) в компанию 1C-Publishing
+# Тестовое задание на позицию Unity Developer в компанию 1C-Publishing
 [Ознакомиться с тестовым заданием](https://github.com/Rutherfordum/Test_task_1C_Publishing/blob/main/Resources/TestTask.md)
 
 ![Alt Text](https://github.com/Rutherfordum/Test_task_1C_Publishing/blob/main/Resources/Movie_001.gif)
